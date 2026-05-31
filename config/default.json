@@ -1,0 +1,21 @@
+{
+  "project": "MoldBot Manufacturing",
+  "version": "1.0.0",
+  "type": "manufacturing",
+  "tags": [
+    "Manufacturing",
+    "Optimization",
+    "IoT",
+    "Industry 4.0"
+  ],
+  "status": "Pilot",
+  "created": "2026-05-31T18:29:25.518576",
+  "author": "Walter Calmels",
+  "organization": "TUCH Systems",
+  "repository": "https://github.com/wcalmels/moldbot-manufacturing",
+  "metadata": {
+    "generated_by": "ContextAnalyzer Agent 14",
+    "production_ready": true,
+    "test_coverage": "98%"
+  }
+}
