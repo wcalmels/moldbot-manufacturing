@@ -96,3 +96,9 @@ MIT License - See LICENSE for details
 **Last Updated**: 2026-05-31 18:29:25
 
 🚀 Transform your ideas into autonomous software systems!
+
+
+--- 
+
+Copyright 2026 Walter Calmels
+All rights reserved.
